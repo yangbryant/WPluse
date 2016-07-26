@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import WPluse
 
 class ViewController: UIViewController, WPluseDurationDelegate {
 

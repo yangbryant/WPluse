@@ -1,12 +1,21 @@
 //
 //  WPluse.h
-//  JLPulseAnimation
+//  WPluse
 //
-//  Created by everyoo.com on 16/7/25.
-//  Copyright © 2016年 iOS. All rights reserved.
+//  Created by everyoo.com on 16/7/26.
+//  Copyright © 2016年 goingeo. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
+
+//! Project version number for WPluse.
+FOUNDATION_EXPORT double WPluseVersionNumber;
+
+//! Project version string for WPluse.
+FOUNDATION_EXPORT const unsigned char WPluseVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <WPluse/PublicHeader.h>
+
 
 @protocol WPluseDurationDelegate <NSObject>
 

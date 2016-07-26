@@ -1,9 +1,9 @@
 //
 //  WPluse.m
-//  JLPulseAnimation
+//  WPluse
 //
-//  Created by everyoo.com on 16/7/25.
-//  Copyright © 2016年 iOS. All rights reserved.
+//  Created by everyoo.com on 16/7/26.
+//  Copyright © 2016年 goingeo. All rights reserved.
 //
 
 #import "WPluse.h"
