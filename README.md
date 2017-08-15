@@ -6,6 +6,20 @@ WPluse is a simple animation similar to Alipay 咻一咻.
 
 iOS 8.0 and higher.
 
+
+## Adding WPluse to your project
+
+### CocoaPods
+
+- Add a pod entry for WPluse to your Podfile `pod 'WPluser', :git=> 'https://github.com/yangbryant/WPluser.git', :tag => '1.0.1'`
+- Install the pod(s) by running pod install.
+- Include WPluse wherever you need it with `#import "WPluse.h"`
+
+### Source files
+
+- Alternatively you can directly add the `WPluse.h` and `WPluse.m` source files to your project.
+- Include WPluse wherever you need it with `#import "WPluse.h"`
+
 ## Features
 
 - Show the animation without delegate
