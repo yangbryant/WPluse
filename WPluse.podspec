@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint WPluser.podspec' to ensure this is a
+#  Be sure to run `pod spec lint WPluse.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see http://docs.cocoapods.org/specification.html
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "WPluser"
+  s.name         = "WPluse"
   s.version      = "1.0.1"
   s.summary      = "WPluse is a simple animation similar to Alipay explor-animation."
 
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/yangbryant/WPluser.git", :tag => "1.0.1" }
+  s.source       = { :git => "https://github.com/yangbryant/WPluse.git", :tag => "1.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

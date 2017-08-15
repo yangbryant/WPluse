@@ -11,7 +11,10 @@ iOS 8.0 and higher.
 
 ### CocoaPods
 
-- Add a pod entry for WPluse to your Podfile `pod 'WPluser', :git=> 'https://github.com/yangbryant/WPluser.git', :tag => '1.0.1'`
+- Add a pod entry for WPluse to your Podfile
+```
+pod 'WPluse', :git=> 'https://github.com/yangbryant/WPluse.git', :tag => '1.0.1'
+```
 - Install the pod(s) by running pod install.
 - Include WPluse wherever you need it with `#import "WPluse.h"`
 
