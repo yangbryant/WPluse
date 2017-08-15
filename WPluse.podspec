@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "WPluse"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "WPluse is a simple animation similar to Alipay explor-animation."
 
   # This description is used to generate tags and improve search results.
@@ -63,7 +63,7 @@ Pod::Spec.new do |s|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  # s.platform     = :ios
+  s.platform     = :ios
   # s.platform     = :ios, "5.0"
 
   #  When using multiple platforms
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/yangbryant/WPluse.git", :tag => "1.0.1" }
+  s.source       = { :git => "https://github.com/yangbryant/WPluse.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
